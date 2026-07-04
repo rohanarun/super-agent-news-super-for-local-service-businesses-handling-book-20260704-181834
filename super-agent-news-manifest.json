@@ -1,0 +1,25 @@
+{
+  "citations": [
+    "[bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini/)",
+    "[scworld.com](https://www.scworld.com/news/1st-agentic-ransomware-jadepuffer-invades-database-at-machine-speed)",
+    "[darkreading.com](https://www.darkreading.com/cyber-risk/ai-generated-workflows-are-a-silent-security-disaster)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px/2-3 lines; AIDA=attention(hero),interest(bento),desire(compare+cache),action(CTA); density_check=compare-grid grid-auto-flow:dense; contrast_check=black/white pills; label_sweep=competitors+cache+security",
+  "generated_at": "2026-07-04T18:18:41.436202+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused niche landing page showing how Super acts as a personal AI agent for local service operators \u2014 answering customers, sending quotes, and managing bookings by actually operating the same tools they already use. Built on the proven Super comparison\u2011page visual system, and grounded in current evidence that computer\u2011using, agentic AI is both powerful and risky unless designed intentionally."
+}
